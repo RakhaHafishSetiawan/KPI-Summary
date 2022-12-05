@@ -4,5 +4,5 @@
 A Power BI dashboard style report on a college project on corporate strategy formulation based on key performance indicator.
 
 ## Tools
-• Microsoft Power BI
+• Microsoft Power BI <br>
 • Microsoft Excel
