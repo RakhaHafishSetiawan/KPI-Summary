@@ -6,3 +6,6 @@ A Power BI dashboard style report on a college project on corporate strategy for
 ## Tools
 • Microsoft Power BI <br>
 • Microsoft Excel
+
+## KPI Data Source
+Sedarmayanti. 2014. Manajemen Strategi. PT Refika Aditama: Bandung.
